@@ -1,4 +1,11 @@
 # Grupo1-ProjetoBotao
-Grupo 1 - Projeto Botão.
 
-oi
+Este projeto, uma iniciativa da Liga Acadêmica de Fisioterapia da UEL (FAFESP), está sendo desenvolvido por integrantes do Ramo Estudantil da UEL - IEEE. Surgiu a necessidade de uma ferramenta destinada ao uso no tratamento de atletas com lesão do Ligamento Cruzado Anterior (LCA). A uma infinidade de aplicações para esse projeto, pode ser usado para teste de reflexo em idosos e crianças, pode ser utilizado para tratamento de doenças que afetam a cordeação motora, entre outras varias tipos de aplicações.
+
+O sistema é composto por cinco botões independentes que operam em dois modos distintos. No primeiro, o modo aleatório, o usuário inicia uma sessão e ativa um cronômetro regressivo com tempo ajustável; um botão acende aleatoriamente e só se apaga ao ser pressionado, acionando o próximo, e o processo se repete até o tempo se esgotar. O segundo é o modo de distinção, onde todos os cinco botões acendem simultaneamente, porém, um deles com uma cor diferente; o usuário deve pressionar apenas o botão de cor distinta para que uma nova variação seja apresentada e isso irá se repetir até o fim do tempo proposto pelo usuário.
+
+Cada botão ira conter LEDs coloridos, baterias, modulo  Bluetooth Low Energy (BLE), um botão industrial. Será usado um notebook como centro de comando, onde o usário poderá dar inicio a seção, escolher o tempo da seção, definir o modo de operação além de armazenar os dados obtidos ao termino do uso. Ao fim do tratamento do paciente, ou de um tempo determinado, sera gerado uma planilha com o progresso de cada paciente, baseado nos dados obtidos ao fim de cada seção.
+
+O escopo do projeto abrange desde a concepção do hardware, utilizando o microcontrolador STM32F103C8T6 como componente central, até o desenvolvimento de uma placa de circuito impresso (PCB) dedicada. A estrutura física dos botões será modelada no software SolidWorks e fabricada, possivelmente por impressão 3D, para garantir a robustez e a proteção dos componentes eletrônicos internos, pois os pacientes iram muitas vezes utilizar o pé para pressionar o botão e para garantir a praticidade a estrutura tem que ser leve e pequena.
+
+O objetivo principal é entregar um protótipo funcional, e de fácil uso, uma vez que quem ira manusear serão muitas vezes pessoas de idade, ou pessoas que não participaram da criação do projeto. simultaneamente, permitir que os estudantes aprofundem seus conhecimentos em sistemas embarcados, desenvolvimento de PCBs e utilização de softwares.
