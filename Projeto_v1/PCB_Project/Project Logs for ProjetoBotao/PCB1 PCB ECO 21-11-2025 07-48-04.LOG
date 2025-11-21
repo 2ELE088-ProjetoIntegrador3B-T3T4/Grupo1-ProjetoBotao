@@ -1,0 +1,42 @@
+Change Component Description : Designator=B1 Old Description=Tactile Switch, 0.05A, 16Vdc, 260Gf, Smd Rohs Compliant: Yes New Description=Tactile Switch, 0.05A, 16Vdc, 260Gf, Smd Rohs Compliant: Yes |Wurth Elektronik 434123025826
+Added Component: Designator=U1(modBLE)
+Add component (AddParameter): Name = "Case/Package"; Value = "Module"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "RF Transceiver Modules and Modems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.octopart.com:443/DA14535MOD-00F01002-Renesas-datasheet-182587836.pdf?src-supplier=Renesas"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.octopart.com:443/DA14535MOD-00F01002-Renesas-datasheet-182587836.pdf?src-supplier=Renesas"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://sigma.octopart.com:80/conflict_mineral_statement/Renesas-company-44.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://sigma.octopart.com:80/conflict_mineral_statement/Renesas-company-44.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "http://sigma.octopart.com:80/reach_statement/Renesas-company-45.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://sigma.octopart.com:80/reach_statement/Renesas-company-45.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Export Control Classification Number (ECCN) Code"; Value = "EAR99"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Harmonized Tariff Schedule (HTS) Code"; Value = "8542.39.90"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Production"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Renesas"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Lifecycle Status"; Value = "ACTIVE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "DA14535MOD-00F01002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MSL"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape & Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Family"; Value = "DA14535MOD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "1.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=6,97, 10=6,039, 25=5,7156, 100=5,2718, 250=5,00596, 500=4,8183 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "692"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "1695-DA14535MOD-00F01002CT-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Pin To Net: NetName=GND Pin=U1-6
+Added Pin To Net: NetName=VCC3V3 Pin=U1-7
+Added Pin To Net: NetName=TX Pin=U1-10
+Added Pin To Net: NetName=GND Pin=U1-11
+Added Pin To Net: NetName=RX Pin=U1-14
+Added Pin To Net: NetName=NSRT Pin=U2-7
+Add Pin To Net: Unknown Pin: Pin U3-1
+Add Pin To Net: Unknown Pin: Pin U3-2
+Add Pin To Net: Unknown Pin: Pin U3-3
+Add Pin To Net: Unknown Pin: Pin U3-4
+Add Pin To Net: Unknown Pin: Pin U6-1
+Add Pin To Net: Unknown Pin: Pin U6-2
+Add Pin To Net: Unknown Pin: Pin U6-3
+Add Pin To Net: Unknown Pin: Pin U6-4

@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=VCC5V Pin=U3-1
+Added Pin To Net: NetName=TX2 Pin=U3-2
+Added Pin To Net: NetName=RX2 Pin=U3-3
+Added Pin To Net: NetName=GND Pin=U3-4
+Added Pin To Net: NetName=NetR4_2 Pin=U6-1
+Added Pin To Net: NetName=VCC5V Pin=U6-2
+Added Pin To Net: NetName=NetR6_2 Pin=U6-3
+Added Pin To Net: NetName=NetR9_2 Pin=U6-4
