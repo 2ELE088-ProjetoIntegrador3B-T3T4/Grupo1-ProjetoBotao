@@ -1,1 +1,4 @@
-Record=TopLevelDocument|FileName=EsquematicoBotao.SchDoc|SheetNumber=1
+Record=TopLevelDocument|FileName=BLUETOOH.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=BLUETOOH.SchDoc|FileName=LOGICA.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=BLUETOOH.SchDoc|FileName=Micro.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=BLUETOOH.SchDoc|FileName=POWER.SchDoc|SheetNumber=3
