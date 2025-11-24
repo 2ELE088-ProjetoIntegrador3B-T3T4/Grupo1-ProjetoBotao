@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=GND Pin=U1-2
+Removed Pin From Net: NetName=GND Pin=U1-3
+Removed Pin From Net: NetName=GND Pin=U1-4
+Removed Pin From Net: NetName=GND Pin=U1-6
+Removed Pin From Net: NetName=VCC3V3 Pin=U1-7
+Removed Pin From Net: NetName=TX Pin=U1-10
+Removed Pin From Net: NetName=GND Pin=U1-11
+Removed Pin From Net: NetName=RX Pin=U1-14
+Change Component Description : Designator=B1 Old Description=Tactile Switch, 0.05A, 16Vdc, 260Gf, Smd Rohs Compliant: Yes New Description=Tactile Switch, 0.05A, 16Vdc, 260Gf, Smd Rohs Compliant: Yes |Wurth Elektronik 434123025826
+Added Pin To Net: NetName=TX Pin=U3-2
+Added Pin To Net: NetName=RX Pin=U3-3
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2
+Added Rule: Name=Schematic Supply Nets_3
+Added Rule: Name=Schematic Supply Nets_4
+Added Rule: Name=Schematic Supply Nets_5
+Added Rule: Name=Schematic Supply Nets_6
+Added Rule: Name=Schematic Supply Nets_7
+Added Rule: Name=Schematic Supply Nets_8
+Added Rule: Name=Schematic Supply Nets_9
+Added Rule: Name=Schematic Supply Nets_10
+Added Rule: Name=Schematic Supply Nets_11
+Added Rule: Name=Schematic Supply Nets_12
+Added Rule: Name=Schematic Supply Nets_13
+Added Rule: Name=Schematic Supply Nets_14
+Added Rule: Name=Schematic Supply Nets_15
+Added Rule: Name=Schematic Supply Nets_16
+Added Rule: Name=Schematic Supply Nets_17
