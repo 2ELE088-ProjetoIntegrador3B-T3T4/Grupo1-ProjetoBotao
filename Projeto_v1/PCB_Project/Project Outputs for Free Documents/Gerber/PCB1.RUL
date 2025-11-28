@@ -1,0 +1,7 @@
+DRC Rules Export File for PCB: C:\Users\pedri\OneDrive\Documentos\repos\PI3B\Grupo1-ProjetoBotao\Projeto_v1\PCB_Project\PCB1.PcbDoc
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=6.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=0.00
+RuleKind=Width|RuleName=Width_4mil|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width_6mil|Scope=Board|Minimum=6.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=4.00
