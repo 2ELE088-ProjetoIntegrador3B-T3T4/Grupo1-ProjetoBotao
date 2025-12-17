@@ -1,0 +1,244 @@
+Removed Pin From Net: NetName=NetC8_1 Pin=C8-1
+Removed Pin From Net: NetName=OSCIN Pin=C8-2
+Removed Pin From Net: NetName=NetC8_1 Pin=C9-1
+Removed Pin From Net: NetName=OSCOUT Pin=C9-2
+Removed Pin From Net: NetName=VCC5V Pin=C10-1
+Removed Pin From Net: NetName=GND Pin=C10-2
+Removed Pin From Net: NetName=VCC3V3 Pin=C11-1
+Removed Pin From Net: NetName=GND Pin=C11-2
+Removed Pin From Net: NetName=VCC5V Pin=U6-1
+Removed Pin From Net: NetName=GND Pin=U6-2
+Removed Pin From Net: NetName=VCC3V3 Pin=U6-3
+Removed Member From Class: ClassName=Micro Member=C1
+Removed Member From Class: ClassName=POWER Member=C1
+Removed Member From Class: ClassName=LOGICA Member=C3
+Removed Member From Class: ClassName=Micro Member=P1
+Removed Member From Class: ClassName=BLUETOOH Member=R14
+Removed Member From Class: ClassName=Micro Member=R14
+Removed Member From Class: ClassName=BLUETOOH Member=R16
+Removed Member From Class: ClassName=BLUETOOH Member=R17
+Removed Member From Class: ClassName=LOGICA Member=R18
+Removed Member From Class: ClassName=LOGICA Member=U2
+Removed Member From Class: ClassName=POWER Member=U2
+Removed Member From Class: ClassName=BLUETOOH Member=U6
+Removed Member From Class: ClassName=Micro Member=U6
+Added Component: Designator=C8(22p)
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Ceramic Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "China RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.octopart.com:443/CC0805FRNPO9BN220-Yageo-datasheet-182140217.pdf?src-supplier=IHS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.octopart.com:443/CC0805FRNPO9BN220-Yageo-datasheet-182140217.pdf?src-supplier=IHS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.octopart.com:443/CC0805FRNPO9BN220-Yageo-datasheet-151948684.pdf?src-supplier=element14+APAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.octopart.com:443/CC0805FRNPO9BN220-Yageo-datasheet-151948684.pdf?src-supplier=element14+APAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.octopart.com:443/CC0805FRNPO9BN220-Yageo-datasheet-181969002.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.octopart.com:443/CC0805FRNPO9BN220-Yageo-datasheet-181969002.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.octopart.com:443/CC0805FRNPO9BN220-Yageo-datasheet-181969001.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.octopart.com:443/CC0805FRNPO9BN220-Yageo-datasheet-181969001.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.octopart.com:443/CC0805FRNPO9BN220-Yageo-datasheet-10406438.pdf?src-supplier=_legacy+Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.octopart.com:443/CC0805FRNPO9BN220-Yageo-datasheet-10406438.pdf?src-supplier=_legacy+Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "https://datasheet.octopart.com:443/CC0805FRNPO9BN220-Yageo-datasheet-137875056.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "https://datasheet.octopart.com:443/CC0805FRNPO9BN220-Yageo-datasheet-137875056.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "https://datasheet.octopart.com:443/CC0805FRNPO9BN220-Yageo-datasheet-137700082.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7URL"; Value = "https://datasheet.octopart.com:443/CC0805FRNPO9BN220-Yageo-datasheet-137700082.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8Description"; Value = "https://datasheet.octopart.com:443/CC0805FRNPO9BN220-Yageo-datasheet-78855684.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8URL"; Value = "https://datasheet.octopart.com:443/CC0805FRNPO9BN220-Yageo-datasheet-78855684.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9Description"; Value = "https://datasheet.octopart.com:443/CC0805FRNPO9BN220-Yageo-datasheet-24578986.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9URL"; Value = "https://datasheet.octopart.com:443/CC0805FRNPO9BN220-Yageo-datasheet-24578986.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink10Description"; Value = "https://datasheet.octopart.com:443/CC0805FRNPO9BN220-Yageo-datasheet-16730043.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink10URL"; Value = "https://datasheet.octopart.com:443/CC0805FRNPO9BN220-Yageo-datasheet-16730043.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink11Description"; Value = "https://datasheet.octopart.com:443/CC0805FRNPO9BN220-Yageo-datasheet-12589826.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink11URL"; Value = "https://datasheet.octopart.com:443/CC0805FRNPO9BN220-Yageo-datasheet-12589826.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink12Description"; Value = "http://sigma.octopart.com:80/conflict_mineral_statement/Yageo-company-3.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink12URL"; Value = "http://sigma.octopart.com:80/conflict_mineral_statement/Yageo-company-3.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink13Description"; Value = "http://sigma.octopart.com:80/rohs_statement/Yageo-company-2.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink13URL"; Value = "http://sigma.octopart.com:80/rohs_statement/Yageo-company-2.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "C0G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Halogen Free"; Value = "Halogen Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "600µm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Production"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo Group"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CC0805FRNPO9BN220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminals"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "10=0,099, 25=0,092, 50=0,085, 100=0,078, 250=0,074, 500=0,069, 1000=0,064 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Schedule B"; Value = "8532240020, 8532240020|8532240020|8532240020|8532240020|8532240020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "6538"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "CC0805FRNPO9BN220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness"; Value = "711.2µm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.25mm"; VariantName = "[No Variations]"
+Added Component: Designator=C9(22p)
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Ceramic Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "China RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.octopart.com:443/CC0805FRNPO9BN220-Yageo-datasheet-182140217.pdf?src-supplier=IHS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.octopart.com:443/CC0805FRNPO9BN220-Yageo-datasheet-182140217.pdf?src-supplier=IHS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.octopart.com:443/CC0805FRNPO9BN220-Yageo-datasheet-151948684.pdf?src-supplier=element14+APAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.octopart.com:443/CC0805FRNPO9BN220-Yageo-datasheet-151948684.pdf?src-supplier=element14+APAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.octopart.com:443/CC0805FRNPO9BN220-Yageo-datasheet-181969002.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.octopart.com:443/CC0805FRNPO9BN220-Yageo-datasheet-181969002.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.octopart.com:443/CC0805FRNPO9BN220-Yageo-datasheet-181969001.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.octopart.com:443/CC0805FRNPO9BN220-Yageo-datasheet-181969001.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.octopart.com:443/CC0805FRNPO9BN220-Yageo-datasheet-10406438.pdf?src-supplier=_legacy+Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.octopart.com:443/CC0805FRNPO9BN220-Yageo-datasheet-10406438.pdf?src-supplier=_legacy+Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "https://datasheet.octopart.com:443/CC0805FRNPO9BN220-Yageo-datasheet-137875056.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "https://datasheet.octopart.com:443/CC0805FRNPO9BN220-Yageo-datasheet-137875056.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "https://datasheet.octopart.com:443/CC0805FRNPO9BN220-Yageo-datasheet-137700082.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7URL"; Value = "https://datasheet.octopart.com:443/CC0805FRNPO9BN220-Yageo-datasheet-137700082.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8Description"; Value = "https://datasheet.octopart.com:443/CC0805FRNPO9BN220-Yageo-datasheet-78855684.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8URL"; Value = "https://datasheet.octopart.com:443/CC0805FRNPO9BN220-Yageo-datasheet-78855684.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9Description"; Value = "https://datasheet.octopart.com:443/CC0805FRNPO9BN220-Yageo-datasheet-24578986.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9URL"; Value = "https://datasheet.octopart.com:443/CC0805FRNPO9BN220-Yageo-datasheet-24578986.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink10Description"; Value = "https://datasheet.octopart.com:443/CC0805FRNPO9BN220-Yageo-datasheet-16730043.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink10URL"; Value = "https://datasheet.octopart.com:443/CC0805FRNPO9BN220-Yageo-datasheet-16730043.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink11Description"; Value = "https://datasheet.octopart.com:443/CC0805FRNPO9BN220-Yageo-datasheet-12589826.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink11URL"; Value = "https://datasheet.octopart.com:443/CC0805FRNPO9BN220-Yageo-datasheet-12589826.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink12Description"; Value = "http://sigma.octopart.com:80/conflict_mineral_statement/Yageo-company-3.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink12URL"; Value = "http://sigma.octopart.com:80/conflict_mineral_statement/Yageo-company-3.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink13Description"; Value = "http://sigma.octopart.com:80/rohs_statement/Yageo-company-2.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink13URL"; Value = "http://sigma.octopart.com:80/rohs_statement/Yageo-company-2.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "C0G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Halogen Free"; Value = "Halogen Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "600µm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Production"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo Group"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CC0805FRNPO9BN220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminals"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "10=0,099, 25=0,092, 50=0,085, 100=0,078, 250=0,074, 500=0,069, 1000=0,064 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Schedule B"; Value = "8532240020, 8532240020|8532240020|8532240020|8532240020|8532240020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "6538"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "CC0805FRNPO9BN220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness"; Value = "711.2µm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.25mm"; VariantName = "[No Variations]"
+Added Component: Designator=C11(47uF)
+Add component (AddParameter): Name = "Case/Package"; Value = "Radial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Aluminum Electrolytic Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "China RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.octopart.com:443/EEEFP1V470AP-Panasonic-datasheet-182100943.pdf?src-supplier=IHS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.octopart.com:443/EEEFP1V470AP-Panasonic-datasheet-182100943.pdf?src-supplier=IHS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.octopart.com:443/EEEFP1V470AP-Panasonic-datasheet-66433925.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.octopart.com:443/EEEFP1V470AP-Panasonic-datasheet-66433925.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.octopart.com:443/EEEFP1V470AP-Panasonic-datasheet-10533123.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.octopart.com:443/EEEFP1V470AP-Panasonic-datasheet-10533123.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.octopart.com:443/EEEFP1V470AP-Panasonic-datasheet-8835375.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.octopart.com:443/EEEFP1V470AP-Panasonic-datasheet-8835375.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.octopart.com:443/EEEFP1V470AP-Panasonic-datasheet-5402830.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.octopart.com:443/EEEFP1V470AP-Panasonic-datasheet-5402830.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "https://datasheet.octopart.com:443/EEEFP1V470AP-Panasonic-datasheet-13268972.pdf?src-supplier=Electro+Sonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "https://datasheet.octopart.com:443/EEEFP1V470AP-Panasonic-datasheet-13268972.pdf?src-supplier=Electro+Sonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "https://datasheet.octopart.com:443/EEE-FP1V470AP-Panasonic-datasheet-27908621.pdf?src-supplier=Electro+Sonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7URL"; Value = "https://datasheet.octopart.com:443/EEE-FP1V470AP-Panasonic-datasheet-27908621.pdf?src-supplier=Electro+Sonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8Description"; Value = "https://datasheet.octopart.com:443/EEEFP1V470AP-Panasonic-datasheet-43765692.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8URL"; Value = "https://datasheet.octopart.com:443/EEEFP1V470AP-Panasonic-datasheet-43765692.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9Description"; Value = "https://datasheet.octopart.com:443/EEE-FP1V470AP-Panasonic-datasheet-166810424.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9URL"; Value = "https://datasheet.octopart.com:443/EEE-FP1V470AP-Panasonic-datasheet-166810424.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink10Description"; Value = "https://datasheet.octopart.com:443/EEE-FP1V470AP-Panasonic-datasheet-154766120.pdf?src-supplier=Master+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink10URL"; Value = "https://datasheet.octopart.com:443/EEE-FP1V470AP-Panasonic-datasheet-154766120.pdf?src-supplier=Master+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink11Description"; Value = "https://sigma.octopart.com:443/150570760/technical_drawing/Panasonic-EEEFP1V470AP.pdf?src-supplier=Panasonic+SCT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink11URL"; Value = "https://sigma.octopart.com:443/150570760/technical_drawing/Panasonic-EEEFP1V470AP.pdf?src-supplier=Panasonic+SCT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink12Description"; Value = "https://datasheet.octopart.com:443/EEEFP1V470AP-Panasonic-datasheet-5301681.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink12URL"; Value = "https://datasheet.octopart.com:443/EEEFP1V470AP-Panasonic-datasheet-5301681.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diameter"; Value = "6.3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dissipation Factor"; Value = "12%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR (Equivalent Series Resistance)"; Value = "260mO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "5.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "5.7912mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "1.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Leakage Current"; Value = "16.45µA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "5.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Life (Hours)"; Value = "2000hours"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Production"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Lifecycle Status"; Value = "ACTIVE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "EEEFP1V470AP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Aluminium"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminals"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Series"; Value = "FP (High temp. reflow)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1000=0,11738 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = "300mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current (AC)"; Value = "300mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Schedule B"; Value = "8532220020, 8532220020|8532220020|8532220020|8532220020|8532220020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "175000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "EEE-FP1V470AP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "47µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "35V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "35V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "35V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "6.6mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC8_1 Pin=C8-1
+Added Pin To Net: NetName=OSCIN Pin=C8-2
+Added Pin To Net: NetName=NetC8_1 Pin=C9-1
+Added Pin To Net: NetName=OSCOUT Pin=C9-2
+Add Pin To Net: Unknown Pin: Pin C10-1
+Add Pin To Net: Unknown Pin: Pin C10-2
+Added Pin To Net: NetName=VCC3V3 Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C11-2
+Add Pin To Net: Unknown Pin: Pin U6-1
+Add Pin To Net: Unknown Pin: Pin U6-2
+Add Pin To Net: Unknown Pin: Pin U6-3
+Add Pin To Net: Unknown Pin: Pin U6-4
+Added Member To Class: ClassName=LOGICA Member=Component C1 100nF
+Added Member To Class: ClassName=Micro Member=Component C2 100nF
+Added Member To Class: ClassName=Micro Member=Component C4 100nF
+Added Member To Class: ClassName=Micro Member=Component C5 100nF
+Added Member To Class: ClassName=Micro Member=Component C6 100nF
+Added Member To Class: ClassName=Micro Member=Component C7 100nF
+Added Member To Class: ClassName=Micro Member=Component C9 22p
+Add Class Member: Failed to add class member : Component C10 1uF
+Added Member To Class: ClassName=POWER Member=Component C11 47uF
+Added Member To Class: ClassName=Micro Member=Component P2 STlink
+Added Member To Class: ClassName=BLUETOOH Member=Component R1 0R
+Added Member To Class: ClassName=BLUETOOH Member=Component R2 0R
+Added Member To Class: ClassName=BLUETOOH Member=Component R3 0R
+Added Member To Class: ClassName=LOGICA Member=Component R7 100
+Added Member To Class: ClassName=LOGICA Member=Component R9 100k
+Added Member To Class: ClassName=LOGICA Member=Component R12 100
+Added Member To Class: ClassName=LOGICA Member=Component R14 100k
+Added Member To Class: ClassName=Micro Member=Component R15 10k
+Added Member To Class: ClassName=BLUETOOH Member=Component U2 M20-7820646
+Added Member To Class: ClassName=LOGICA Member=Component U3 61300411121
+Added Member To Class: ClassName=Micro Member=Component U4 STM32F103C8T6
+Added Member To Class: ClassName=POWER Member=Component U5 22-23-2031
