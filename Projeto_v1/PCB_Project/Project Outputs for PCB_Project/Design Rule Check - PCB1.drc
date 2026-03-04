@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : C:\Users\peara\OneDrive\Documentos\GitHub\Grupo1-ProjetoBotao\Projeto_v1\PCB_Project\PCB1.PcbDoc
-Date     : 18/12/2025
-Time     : 17:59:24
+PCB File : C:\Users\akira\Desktop\ReposReserva\Grupo1-ProjetoBotao\Projeto_v1\PCB_Project\PCB1.PcbDoc
+Date     : 04/03/2026
+Time     : 10:33:50
 
 Processing Rule : Clearance Constraint (Gap=0.102mm) (All),(All)
 Rule Violations :0
@@ -43,7 +43,15 @@ Processing Rule : Minimum Solder Mask Sliver (Gap=0.152mm) (All),(All)
 Rule Violations :0
 
 Processing Rule : Silk To Solder Mask (Clearance=0.127mm) (IsPad),(All)
-Rule Violations :0
+   Violation between Silk To Solder Mask Clearance Constraint: (0.05mm < 0.127mm) Between Pad U4-1(25.65mm,20.85mm) on Top Layer And Track (25.95mm,21.35mm)(27mm,21.35mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.05mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.05mm < 0.127mm) Between Pad U4-12(20.15mm,20.85mm) on Top Layer And Track (18.3mm,21.35mm)(19.85mm,21.35mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.05mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.05mm < 0.127mm) Between Pad U4-13(18.8mm,19.5mm) on Top Layer And Track (18.3mm,19.8mm)(18.3mm,21.35mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.05mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.05mm < 0.127mm) Between Pad U4-24(18.8mm,14mm) on Top Layer And Track (18.3mm,12.15mm)(18.3mm,13.7mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.05mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.05mm < 0.127mm) Between Pad U4-25(20.15mm,12.65mm) on Top Layer And Track (18.3mm,12.15mm)(19.85mm,12.15mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.05mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.05mm < 0.127mm) Between Pad U4-36(25.65mm,12.65mm) on Top Layer And Track (25.95mm,12.15mm)(27.5mm,12.15mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.05mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.05mm < 0.127mm) Between Pad U4-37(27mm,14mm) on Top Layer And Track (27.5mm,12.15mm)(27.5mm,13.7mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.05mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.05mm < 0.127mm) Between Pad U4-48(27mm,19.5mm) on Top Layer And Track (27.5mm,19.8mm)(27.5mm,20.85mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.05mm]
+Rule Violations :8
 
 Processing Rule : Silk to Silk (Clearance=0.127mm) (All),(All)
 Rule Violations :0
@@ -58,6 +66,6 @@ Processing Rule : Height Constraint (Min=0mm) (Max=1816.048mm) (Prefered=12.7mm)
 Rule Violations :0
 
 
-Violations Detected : 0
+Violations Detected : 8
 Waived Violations : 0
-Time Elapsed        : 00:00:01
+Time Elapsed        : 00:00:00
